@@ -91,3 +91,4 @@ function teste2(a, b, c){
 //teste2(1)//1
 //teste2(1,2)//3
 //teste2(1,2,3)//1
+
